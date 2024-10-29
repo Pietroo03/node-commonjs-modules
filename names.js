@@ -9,4 +9,4 @@ function fullName(firstName, lastName) {
     
 }
 
-module.exports = fullName(firstName, lastName)
+module.exports = fullName
